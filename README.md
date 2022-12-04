@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ayla
-- 👀 I’m interested in AI and studying codes
-- 🌱 I’m currently learning python and machine learning
+- 👋 it's Ayla
+- 👀 Goal is to become an expert in A.L.
+- 🌱 Currently learning python and M.L.
 - 📫 How to reach me Email: aylabanazadeh@gmail.com / Telegram: @ayualbn
 
 <!---
