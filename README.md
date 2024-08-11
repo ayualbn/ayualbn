@@ -1,6 +1,6 @@
 - 👋 it's Ayla
 - 👀 Goal is to become an expert in A.L.
-- 🌱 Currently learning python and M.L.
+- 🌱 Currently learning php and M.L.
 - 📫 How to reach me Email: aylabanazadeh@gmail.com / Telegram: @ayualbn
 
 <!---
