@@ -1,7 +1,7 @@
 - 👋 it's Ayla
-- 👀 Goal is to become an expert in A.L.
-- 🌱 Currently learning php and M.L.
-- 📫 How to reach me Email: aylabanazadeh@gmail.com / Telegram: @ayualbn
+- 👀 Goal is to become an expert in A.I.
+- 🌱 Currently learning M.L. and LLM.
+- 📫 How to reach me Email: aylabanazadeh@gmail.com 
 
 <!---
 ayualbn/ayualbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
